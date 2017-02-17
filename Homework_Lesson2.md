@@ -57,8 +57,8 @@ p str[0]
 10) Get the first through 3rd elements from the "Jaydakiss" string.
 
 str = "Jaydakiss"
-p str[3]
-"d"
+p str[0,3]
+"Jay"
 
 11) Get the last element from the "Jaydakiss" string.
 
