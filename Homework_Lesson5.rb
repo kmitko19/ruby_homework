@@ -343,11 +343,11 @@ end
 
 end
 
-vaz = Vehicle.new("car", 60)
+car = Vehicle.new("car", 60)
 
-vityaz = Vehicle.new("tram", 40)
+tram = Vehicle.new("tram", 40)
 
-hvz = Vehicle.new("bike", 20)
+bike = Vehicle.new("bike", 20)
 
 
 
